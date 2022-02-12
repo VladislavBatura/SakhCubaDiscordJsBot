@@ -1,0 +1,14 @@
+{
+    "prefix":"?",
+    "token":"ODQ4Nzg3NjcwODU0OTI2MzQ2.YLRtHg.seigi5jyICP3Z5EoIWSkpZuwtsg",
+    "clientId":"848787670854926346",
+    "guildId":"294429410059091969",
+    "db":{
+        "host": "mysql3.joinserver.ru",
+        "port": "3306",
+        "user": "u52650_UKverT6ohK",
+        "password": "PGUOtjA3iCGVIQFSkwh8IP40",
+        "database": "s52650_player",
+        "charset": "utf8"
+    }
+}
